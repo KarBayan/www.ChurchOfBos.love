@@ -1,0 +1,3 @@
+We define ourselves through service to all. We welcome your donations, especially if our services have brought you joy, inspiration, or even a moment of light entertainment. The following are the projects that we have conceived:
+
+1. [The Sky-Home Project ver. 2](https://www.reddit.com/r/ChurchOfBos/comments/1ik6l5z/showcasing_church_of_bos_services_the_skyhome/) \-- **showcasing Church of Bos services**
