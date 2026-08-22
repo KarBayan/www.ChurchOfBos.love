@@ -13,6 +13,13 @@ When one awakens to consciousness, one seeks like-minded companions. We, as an o
 
 We define ourselves through service to all.
 
+---
+
+* The Projects — the practical work: current initiatives, plans, collaborators, experiments, and progress.
+* The Book — the structured, enduring account of its beliefs, philosophy, history, and meaning.
+* The Facebook — dated posts documenting your life and the lived emergence of the Church of Bos.
+---
+
 #### License:
 
 Creative Commons Zero v1.0 Universal
