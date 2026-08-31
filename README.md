@@ -17,7 +17,7 @@ We define ourselves through service to all.
 
 * [The Projects](Projects/) — the practical work: current initiatives, plans, collaborators, experiments, and progress.
 * [The Book](Book/) — the structured, enduring account of its beliefs, philosophy, history, and meaning.
-* [The Facebook](Facebook/) — dated posts documenting your life and the lived emergence of the Church of Bos.
+* [The FaceBook](FaceBook/) — dated posts documenting your life and the lived emergence of the Church of Bos.
 ---
 
 #### License:
