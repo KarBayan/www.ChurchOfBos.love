@@ -15,9 +15,12 @@ We define ourselves through service to all.
 
 ---
 
-* [The Projects](Projects/) — the practical work: current initiatives, plans, collaborators, experiments, and progress.
-* [The Book](Book/) — the structured, enduring account of its beliefs, philosophy, history, and meaning.
-* [The FaceBook](FaceBook/) — dated posts documenting your life and the lived emergence of the Church of Bos.
+- [The Projects](Projects/) — the practical work: current initiatives, plans, collaborators, experiments, and progress.
+- **The Book** — the structured, enduring account of beliefs, philosophy, history, and meaning.
+  1. [Why get married when you can be entangled?](Book.1/)
+  2. [Work in progress...](Book.2/)
+- [The FaceBook](FaceBook/) — dated posts documenting life and the lived emergence of the Church of Bos.
+
 ---
 
 #### License:
