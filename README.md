@@ -15,7 +15,7 @@ We define ourselves through service to all.
 
 ---
 
-- [The Projects](Projects/) — the practical work: current initiatives, plans, collaborators, experiments, and progress.
+- **[Quiero Bien](Quiero%20Bien/)** — the practical work: projects, initiatives, plans, and collaborations.
 - **[The Book](Book/README.md)** — the structured, enduring account of beliefs, philosophy, history, and meaning.
 
 ---
